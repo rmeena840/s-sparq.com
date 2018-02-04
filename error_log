@@ -1,0 +1,825 @@
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 417
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 419
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 440
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 442
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 463
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 465
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 544
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 546
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 547
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/news.php on line 10
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/news.php on line 12
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/affiliation.php on line 10
+[23-Jun-2017 11:58:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/affiliation.php on line 12
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 417
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 419
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 440
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 442
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 463
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 465
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 544
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 546
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/sparq/home.php on line 547
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/news.php on line 10
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/news.php on line 12
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/sparq/affiliation.php on line 10
+[23-Jun-2017 12:13:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/sparq/affiliation.php on line 12
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 417
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 419
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 12:20:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 417
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 419
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 12:24:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 417
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 419
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 12:24:37] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 12:24:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 12:24:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 12:24:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 12:24:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 417
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 419
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 12:26:00] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 417
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 419
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 12:27:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 417
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 419
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 12:29:10] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 12:29:11] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 12:29:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 12:29:11] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 12:29:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 12:29:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 12:29:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 12:29:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 12:29:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 420
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 548
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 15:42:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 420
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 548
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 15:43:15] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 15:46:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 15:46:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 15:46:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 15:46:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 420
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 16:03:46] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 548
+[23-Jun-2017 16:03:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 16:03:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 16:03:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 16:03:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 420
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 16:05:28] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 548
+[23-Jun-2017 16:05:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 16:05:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 16:05:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 16:05:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 16:30:07] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 416
+[23-Jun-2017 16:30:07] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 16:30:07] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 439
+[23-Jun-2017 16:30:07] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 16:30:07] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 462
+[23-Jun-2017 16:30:07] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 16:30:07] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 16:30:07] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 416
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 439
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 462
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 16:35:13] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 16:35:13] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 16:35:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 16:51:20] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 16:51:22] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 16:51:24] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 16:51:24] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 16:51:24] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 16:51:24] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 17:03:39] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:03:40] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:03:41] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:03:43] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:03:47] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:03:49] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:03:54] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:03:57] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:04:20] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:04:21] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:04:25] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:06:18] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:06:19] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:08:13] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:08:15] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:08:17] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:08:31] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 17:08:57] PHP Parse error:  syntax error, unexpected ')' in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 543
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 420
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 548
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 22:21:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 420
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 548
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 22:29:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[23-Jun-2017 22:53:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[23-Jun-2017 22:53:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[23-Jun-2017 22:53:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[23-Jun-2017 22:53:24] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[23-Jun-2017 22:53:24] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[23-Jun-2017 22:53:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[23-Jun-2017 22:53:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[23-Jun-2017 22:53:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[23-Jun-2017 22:53:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 418
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 420
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 441
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 464
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 545
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[24-Jun-2017 10:32:50] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 548
+[24-Jun-2017 10:32:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 10:32:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 10:32:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 10:32:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:00:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:01:39] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 440
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 442
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 463
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 465
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 544
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 546
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:03:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 443
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 445
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 466
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 468
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 547
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 549
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/home.php on line 550
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:04:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:06:17] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:06:17] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:06:17] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:06:17] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:22:53] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:22:53] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:22:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:22:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:25:27] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:25:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:35:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:35:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:35:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:35:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:36:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:36:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:36:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:36:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:36:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:36:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:36:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:36:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:38:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 11:38:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 11:38:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:38:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:39:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 12
+[24-Jun-2017 11:39:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 14
+[24-Jun-2017 11:39:25] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 25
+[24-Jun-2017 11:39:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 12
+[24-Jun-2017 11:39:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 14
+[24-Jun-2017 11:39:29] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 25
+[24-Jun-2017 11:54:14] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:54:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:57:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:57:51] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 11:58:54] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 11:58:54] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:00:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 12:00:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:01:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 12:01:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:01:10] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 12:01:10] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:05:05] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 12:05:05] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:05:11] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 12:05:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:28:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 12:28:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:30:23] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 12:30:23] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:41:59] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 12:42:20] PHP Notice:  Undefined index:  News in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 14
+[24-Jun-2017 13:05:12] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:05:12] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 13:05:12] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:05:12] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:05:21] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:05:21] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 13:05:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:05:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 13:05:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:05:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:06:08] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:06:08] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:07:27] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:07:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:09:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:09:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 13:09:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:09:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:10:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:10:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 13:10:59] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:10:59] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:12:01] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:12:01] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 13:12:02] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:12:02] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:12:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 13:12:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 13:12:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:12:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 13:16:42] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 10
+[24-Jun-2017 13:16:42] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 12
+[24-Jun-2017 14:58:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 14:58:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 14:58:48] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 14:58:48] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 14:59:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 10
+[24-Jun-2017 14:59:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/affiliation.php on line 12
+[24-Jun-2017 15:48:37] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 12
+[24-Jun-2017 15:48:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 14
+[24-Jun-2017 15:48:37] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/admins.php on line 25
+[24-Jun-2017 15:52:52] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_affiliation.php on line 261
+[24-Jun-2017 15:52:52] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_affiliation.php on line 263
+[24-Jun-2017 16:01:28] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 273
+[24-Jun-2017 16:01:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 275
+[24-Jun-2017 16:12:24] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 273
+[24-Jun-2017 16:12:24] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 275
+[24-Jun-2017 16:28:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 273
+[24-Jun-2017 16:28:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 275
+[24-Jun-2017 16:30:35] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 273
+[24-Jun-2017 16:30:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 275
+[24-Jun-2017 16:36:35] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 273
+[24-Jun-2017 16:36:35] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 275
+[24-Jun-2017 16:37:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 273
+[24-Jun-2017 16:37:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 275
+[24-Jun-2017 16:38:06] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 273
+[24-Jun-2017 16:38:06] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 275
+[24-Jun-2017 16:46:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[24-Jun-2017 16:46:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[24-Jun-2017 16:46:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 255
+[24-Jun-2017 16:46:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 257
+[24-Jun-2017 16:46:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 277
+[24-Jun-2017 16:46:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 279
+[24-Jun-2017 16:46:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 299
+[24-Jun-2017 16:46:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 301
+[24-Jun-2017 16:46:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 255
+[24-Jun-2017 16:46:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 257
+[24-Jun-2017 16:46:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 277
+[24-Jun-2017 16:46:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 279
+[24-Jun-2017 16:46:32] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 299
+[24-Jun-2017 16:46:32] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 301
+[24-Jun-2017 16:48:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 255
+[24-Jun-2017 16:48:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 257
+[24-Jun-2017 16:48:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 277
+[24-Jun-2017 16:48:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 279
+[24-Jun-2017 16:48:09] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 299
+[24-Jun-2017 16:48:09] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 301
+[24-Jun-2017 16:50:16] PHP Notice:  Undefined index:  entrepreneurs train in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 305
+[24-Jun-2017 16:58:07] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[24-Jun-2017 16:58:07] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[24-Jun-2017 16:58:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[24-Jun-2017 16:58:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[24-Jun-2017 16:58:43] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[24-Jun-2017 16:58:43] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[24-Jun-2017 17:16:41] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[24-Jun-2017 17:16:41] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[24-Jun-2017 17:16:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 234
+[24-Jun-2017 17:16:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 236
+[24-Jun-2017 17:18:06] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 234
+[24-Jun-2017 17:18:06] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 236
+[24-Jun-2017 17:18:13] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[24-Jun-2017 17:18:13] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[24-Jun-2017 17:18:20] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 258
+[24-Jun-2017 17:18:20] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 260
+[24-Jun-2017 17:18:28] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 258
+[24-Jun-2017 17:18:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 260
+[24-Jun-2017 17:20:40] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[24-Jun-2017 17:20:40] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[24-Jun-2017 17:20:40] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[24-Jun-2017 17:24:14] PHP Notice:  Undefined variable: _POSt in /home/kwatt2iz/public_html/s-sparq.com/add_news.php on line 5
+[24-Jun-2017 17:24:39] PHP Notice:  Undefined variable: _POSt in /home/kwatt2iz/public_html/s-sparq.com/add_news.php on line 5
+[25-Jun-2017 17:44:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 17:44:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 17:44:37] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 17:44:37] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 17:44:37] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 17:44:40] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 258
+[25-Jun-2017 17:44:40] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 260
+[25-Jun-2017 18:07:11] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 258
+[25-Jun-2017 18:07:11] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 260
+[25-Jun-2017 18:13:02] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 18:13:02] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 18:15:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 18:15:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 18:16:02] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 18:16:02] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 18:21:40] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 18:21:40] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 18:21:47] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:21:47] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:21:47] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:21:57] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 18:21:57] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 18:24:00] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:24:00] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:24:00] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:24:15] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:24:15] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:24:15] PHP Notice:  Undefined index:  Title in /home/kwatt2iz/public_html/s-sparq.com/update_news.php on line 242
+[25-Jun-2017 18:26:27] PHP Notice:  Undefined variable: _POSt in /home/kwatt2iz/public_html/s-sparq.com/add_news.php on line 5
+[25-Jun-2017 18:29:14] PHP Notice:  Undefined variable: _POSt in /home/kwatt2iz/public_html/s-sparq.com/add_news.php on line 5
+[25-Jun-2017 18:29:29] PHP Notice:  Undefined variable: _POSt in /home/kwatt2iz/public_html/s-sparq.com/add_news.php on line 5
+[25-Jun-2017 18:31:02] PHP Notice:  Undefined variable: _POSt in /home/kwatt2iz/public_html/s-sparq.com/add_news.php on line 5
+[25-Jun-2017 18:38:59] PHP Notice:  Undefined variable: _POSt in /home/kwatt2iz/public_html/s-sparq.com/add_news.php on line 5
+[25-Jun-2017 19:07:28] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:07:28] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:12:27] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:12:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:12:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:12:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:17:40] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:17:40] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:32:44] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:32:44] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:33:44] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:33:44] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:37:25] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:37:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:37:44] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 19:37:44] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 19:37:48] PHP Parse error:  syntax error, unexpected ';' in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 7
+[25-Jun-2017 19:37:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:38:46] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:38:51] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:39:15] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:39:18] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:39:20] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:39:25] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:44:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:44:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:44:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 4
+[25-Jun-2017 19:46:29] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:46:29] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:47:01] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:47:01] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:47:37] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 8
+[25-Jun-2017 19:47:37] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 10
+[25-Jun-2017 19:48:25] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 8
+[25-Jun-2017 19:48:25] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 10
+[25-Jun-2017 19:48:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:48:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:49:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:49:03] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:50:14] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:50:14] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:50:27] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:50:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:50:38] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 9
+[25-Jun-2017 19:50:38] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 11
+[25-Jun-2017 19:53:45] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 8
+[25-Jun-2017 19:53:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 10
+[25-Jun-2017 19:53:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_sparq'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 8
+[25-Jun-2017 19:53:50] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_address.php on line 10
+[25-Jun-2017 20:00:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:00:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:00:08] PHP Parse error:  syntax error, unexpected ';' in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 7
+[25-Jun-2017 20:00:14] PHP Parse error:  syntax error, unexpected ';' in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 7
+[25-Jun-2017 20:00:52] PHP Parse error:  syntax error, unexpected ';' in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 7
+[25-Jun-2017 20:01:00] PHP Parse error:  syntax error, unexpected ';' in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 7
+[25-Jun-2017 20:01:06] PHP Parse error:  syntax error, unexpected ';' in /home/kwatt2iz/public_html/s-sparq.com/update_student.php on line 7
+[25-Jun-2017 20:06:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:06:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:18:46] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:18:46] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:20:07] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:20:07] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:22:04] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:22:04] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:31:01] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:31:01] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:31:27] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:31:27] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:33:16] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:33:16] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:33:23] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:33:23] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 20:33:53] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'kwatt2iz_ravi'@'localhost' (using password: YES) in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 238
+[25-Jun-2017 20:33:53] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 240
+[25-Jun-2017 21:17:50] PHP Notice:  Undefined index:  Courses_Images/Advance COursepng in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 261
+[25-Jun-2017 21:17:50] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 261
+[25-Jun-2017 21:23:24] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 16
+[25-Jun-2017 21:23:24] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 18
+[25-Jun-2017 21:33:48] PHP Parse error:  syntax error, unexpected ']' in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 261
+[25-Jun-2017 21:34:33] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 261
+[25-Jun-2017 21:34:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 261
+[25-Jun-2017 21:35:10] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 261
+[25-Jun-2017 21:40:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 261
+[26-Jun-2017 10:42:44] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 10:43:26] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 10:45:05] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 10:47:19] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 10:51:46] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 10:53:33] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 11:16:08] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:08] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:08] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:08] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:09] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:09] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:09] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:09] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:10] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:10] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:10] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:10] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:12] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:12] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:12] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:12] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:14] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:14] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:14] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:16:14] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:48] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:48] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:48] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:48] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:50] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:50] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:50] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:21:50] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:25:58] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:25:58] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:25:58] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:25:58] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:26:00] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:26:00] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:26:00] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:26:00] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:30:40] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:30:40] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:30:40] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:30:40] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 252
+[26-Jun-2017 11:41:56] PHP Notice:  Undefined index:  venue in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 265
+[26-Jun-2017 11:49:17] PHP Notice:  Undefined index:  venue in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 265
+[26-Jun-2017 11:50:53] PHP Notice:  Undefined index:  venue in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 265
+[26-Jun-2017 11:53:07] PHP Notice:  Undefined index:  venue in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 265
+[26-Jun-2017 11:53:07] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 265
+[26-Jun-2017 11:55:20] PHP Notice:  Undefined index:  venue in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 265
+[26-Jun-2017 11:55:20] PHP Notice:  Undefined index:  date in /home/kwatt2iz/public_html/s-sparq.com/update_course.php on line 265
+[26-Jun-2017 12:25:43] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 10
+[26-Jun-2017 12:28:29] PHP Parse error:  syntax error, unexpected '/', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 10
+[26-Jun-2017 12:28:30] PHP Parse error:  syntax error, unexpected '/', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 10
+[26-Jun-2017 12:28:31] PHP Parse error:  syntax error, unexpected '/', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 10
+[26-Jun-2017 12:29:00] PHP Parse error:  syntax error, unexpected '/', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 10
+[26-Jun-2017 12:30:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 8
+[26-Jun-2017 12:30:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 225
+[26-Jun-2017 12:30:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 255
+[26-Jun-2017 12:30:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 276
+[26-Jun-2017 12:35:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 8
+[26-Jun-2017 12:35:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 226
+[26-Jun-2017 12:35:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 256
+[26-Jun-2017 12:35:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 277
+[26-Jun-2017 12:46:11] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 8
+[26-Jun-2017 12:46:11] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 225
+[26-Jun-2017 12:46:11] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 255
+[26-Jun-2017 12:46:11] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 276
+[26-Jun-2017 12:50:34] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 8
+[26-Jun-2017 12:50:34] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 227
+[26-Jun-2017 12:50:34] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 257
+[26-Jun-2017 12:50:34] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 278
+[26-Jun-2017 12:51:18] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 8
+[26-Jun-2017 12:51:18] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 227
+[26-Jun-2017 12:51:18] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 257
+[26-Jun-2017 12:51:18] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 278
+[26-Jun-2017 12:53:23] PHP Notice:  Undefined variable: name in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 8
+[26-Jun-2017 12:53:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 10
+[26-Jun-2017 12:53:23] PHP Notice:  Undefined variable: name in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 12
+[26-Jun-2017 12:53:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 226
+[26-Jun-2017 12:53:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 256
+[26-Jun-2017 12:53:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 277
+[26-Jun-2017 12:54:09] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 226
+[26-Jun-2017 12:54:09] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 256
+[26-Jun-2017 12:54:09] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 277
+[26-Jun-2017 12:54:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 10
+[26-Jun-2017 12:54:17] PHP Notice:  Undefined variable: name in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 12
+[26-Jun-2017 12:54:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 226
+[26-Jun-2017 12:54:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 256
+[26-Jun-2017 12:54:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 277
+[26-Jun-2017 12:55:16] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 3
+[26-Jun-2017 12:55:16] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 227
+[26-Jun-2017 12:55:16] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 257
+[26-Jun-2017 12:55:16] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 278
+[26-Jun-2017 12:55:19] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 3
+[26-Jun-2017 12:55:19] PHP Notice:  Undefined variable: name in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 13
+[26-Jun-2017 12:55:19] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 227
+[26-Jun-2017 12:55:19] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 257
+[26-Jun-2017 12:55:19] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 278
+[26-Jun-2017 12:57:08] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 3
+[26-Jun-2017 12:57:08] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 227
+[26-Jun-2017 12:57:08] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 257
+[26-Jun-2017 12:57:08] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 278
+[26-Jun-2017 12:59:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 3
+[26-Jun-2017 12:59:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 225
+[26-Jun-2017 12:59:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 255
+[26-Jun-2017 12:59:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 276
+[26-Jun-2017 13:04:07] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 3
+[26-Jun-2017 13:04:07] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:04:07] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 254
+[26-Jun-2017 13:04:07] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 275
+[26-Jun-2017 13:05:04] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 3
+[26-Jun-2017 13:05:04] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:05:04] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 254
+[26-Jun-2017 13:05:04] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 275
+[26-Jun-2017 13:06:28] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 3
+[26-Jun-2017 13:06:28] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:06:28] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 254
+[26-Jun-2017 13:06:28] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 275
+[26-Jun-2017 13:20:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:20:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 13:20:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 13:20:48] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 13:23:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:23:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 13:23:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 13:23:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 13:26:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:26:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 13:26:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 13:26:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 13:26:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:26:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 13:26:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 13:26:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 13:26:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:26:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 13:26:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 13:26:23] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 13:26:56] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 11
+[26-Jun-2017 13:27:08] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 11
+[26-Jun-2017 13:29:23] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 11
+[26-Jun-2017 13:32:24] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 228
+[26-Jun-2017 13:32:24] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 257
+[26-Jun-2017 13:32:24] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 270
+[26-Jun-2017 13:32:24] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 291
+[26-Jun-2017 13:35:25] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 228
+[26-Jun-2017 13:35:25] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 257
+[26-Jun-2017 13:35:25] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 270
+[26-Jun-2017 13:35:25] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 291
+[26-Jun-2017 13:36:20] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 13:36:20] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 13:36:20] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 13:36:20] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 14:08:46] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 14:09:37] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 14:10:41] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 14:11:23] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 14:13:26] PHP Notice:  Undefined variable: changed in /home/kwatt2iz/public_html/s-sparq.com/add_course.php on line 12
+[26-Jun-2017 16:52:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 16:52:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 16:52:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 16:52:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 16:52:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 16:52:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 16:52:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 16:52:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 16:53:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 16:53:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 16:53:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 16:53:17] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 16:54:13] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 16:54:13] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 16:54:13] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 16:54:13] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 16:54:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 16:54:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 16:54:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 16:54:47] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 17:34:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 17:34:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 17:34:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 17:34:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[26-Jun-2017 17:35:33] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[26-Jun-2017 17:35:33] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[26-Jun-2017 17:35:33] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[26-Jun-2017 17:35:33] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[27-Jun-2017 11:19:01] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 14
+[27-Jun-2017 11:19:23] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/kwatt2iz/public_html/s-sparq.com/news.php on line 14
+[27-Jun-2017 13:34:55] PHP Parse error:  syntax error, unexpected $end in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 379
+[27-Jun-2017 13:34:57] PHP Parse error:  syntax error, unexpected $end in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 379
+[27-Jun-2017 13:34:58] PHP Parse error:  syntax error, unexpected $end in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 379
+[27-Jun-2017 13:35:11] PHP Parse error:  syntax error, unexpected $end in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 379
+[27-Jun-2017 13:35:48] PHP Parse error:  syntax error, unexpected $end in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 379
+[27-Jun-2017 13:35:49] PHP Parse error:  syntax error, unexpected $end in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 379
+[27-Jun-2017 13:35:50] PHP Parse error:  syntax error, unexpected $end in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 379
+[27-Jun-2017 14:32:56] PHP Notice:  Use of undefined constant last_name - assumed 'last_name' in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 17
+[27-Jun-2017 14:47:45] PHP Parse error:  syntax error, unexpected '.' in /home/kwatt2iz/public_html/s-sparq.com/registration_form.php on line 17
+[28-Jun-2017 14:31:55] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/update_download.php on line 272
+[28-Jun-2017 14:31:55] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/update_download.php on line 274
+[28-Jun-2017 14:33:47] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/download.php on line 243
+[28-Jun-2017 14:33:47] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/download.php on line 249
+[28-Jun-2017 14:44:12] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 22
+[28-Jun-2017 14:44:12] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 25
+[28-Jun-2017 14:52:32] PHP Warning:  move_uploaded_file(download_img/major/miniprojectslist.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 20
+[28-Jun-2017 14:52:32] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpFpUr0I' to 'download_img/major/miniprojectslist.png' in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 20
+[28-Jun-2017 14:53:27] PHP Warning:  move_uploaded_file(download_img/major/miniprojectslist.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 20
+[28-Jun-2017 14:53:27] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpcX0aJw' to 'download_img/major/miniprojectslist.png' in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 20
+[28-Jun-2017 14:55:25] PHP Warning:  move_uploaded_file(download_img/major/miniproejectslist.png) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 20
+[28-Jun-2017 14:55:25] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpHO8yv6' to 'download_img/major/miniproejectslist.png' in /home/kwatt2iz/public_html/s-sparq.com/add_download.php on line 20
+[28-Jun-2017 14:58:24] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/download.php on line 243
+[28-Jun-2017 14:58:24] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/download.php on line 249
+[28-Jul-2017 17:54:31] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/forgot_password.php on line 10
+[28-Jul-2017 17:54:31] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/forgot_password.php on line 12
+[28-Jul-2017 17:54:31] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/forgot_password.php on line 13
+[28-Jul-2017 17:54:45] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/kwatt2iz/public_html/s-sparq.com/forgot_password.php on line 10
+[28-Jul-2017 17:54:45] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/kwatt2iz/public_html/s-sparq.com/forgot_password.php on line 12
+[28-Jul-2017 17:54:45] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/kwatt2iz/public_html/s-sparq.com/forgot_password.php on line 13
+[28-Jul-2017 17:55:03] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for us[05-Aug-2017 14:17:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[05-Aug-2017 14:17:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[05-Aug-2017 14:17:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[05-Aug-2017 14:17:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[05-Aug-2017 14:40:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[05-Aug-2017 14:40:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[05-Aug-2017 14:40:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[05-Aug-2017 14:40:52] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[11-Aug-2017 15:47:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[11-Aug-2017 15:47:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[11-Aug-2017 15:47:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[11-Aug-2017 15:47:05] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[11-Sep-2017 16:48:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[11-Sep-2017 16:48:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[11-Sep-2017 16:48:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[11-Sep-2017 16:48:02] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[27-Sep-2017 15:27:56] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[27-Sep-2017 15:27:56] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[27-Sep-2017 15:27:56] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[27-Sep-2017 15:27:56] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[27-Sep-2017 15:29:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[27-Sep-2017 15:29:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[27-Sep-2017 15:29:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[27-Sep-2017 15:29:30] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
+[22-Nov-2017 17:31:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 224
+[22-Nov-2017 17:31:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 253
+[22-Nov-2017 17:31:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 266
+[22-Nov-2017 17:31:03] PHP Notice:  Undefined index:  update in /home/kwatt2iz/public_html/s-sparq.com/updating.php on line 287
